@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AC820FA4-9005-4970-919A-FAE0022F340C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FTTHAnnualConference</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>83C44BDA-C37E-4B0D-9E1F-E834C26F96EA</key>
+		<string>https://bitbucket.org/prottoy/ftthannualconference.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FTTHAnnualConference.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>83C44BDA-C37E-4B0D-9E1F-E834C26F96EA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/prottoy/ftthannualconference.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>83C44BDA-C37E-4B0D-9E1F-E834C26F96EA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>83C44BDA-C37E-4B0D-9E1F-E834C26F96EA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FTTHAnnualConference</string>
+		</dict>
+	</array>
+</dict>
+</plist>
